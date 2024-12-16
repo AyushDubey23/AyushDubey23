@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyushDubey23
 - 👀 I’m interested in open source contribution and Competetive programming.
 - 🌱 I’m currently learning C++
-- 📫 How to reach me ig:@_ayushhdubey_
+- 📫 How to reach me ig:@__ayushhdubey__
 - 😄 Pronouns: He/Him
 
 
