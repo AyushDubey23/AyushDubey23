@@ -1,9 +1,6 @@
-
-<br clear="both">
-
-<h1 align="center"></h1>
-
-###
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
 
 <br clear="both">
 
@@ -65,14 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushDubey23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2&custom_title=MOST%20USED%20LANGUAGES" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=AyushDubey23&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushDubey23/AyushDubey23/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushDubey23/AyushDubey23/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AyushDubey23/AyushDubey23/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
